@@ -8,3 +8,5 @@ netsh advfirewall firewall add rule name=ping protocol=icmpv4:8,any dir=in actio
 
 
 ping opsi.lab.local
+
+https://tools.43.opsi.org/stable/opsi-configed-windows.exe
